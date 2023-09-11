@@ -1,11 +1,17 @@
 # BMI_CALCULATOR
 
-A new Flutter project.
+
 
 ## Getting Started
 
 I have maked a Body Mass Index Calculator
 It will be a multi screen app with simple functionality but full-on custom styling.
+
+
+
+
+
+[Download the APK from our Releases page here](https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/releases/tag/v1.0.0)
 
 I have used
 
