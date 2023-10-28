@@ -30,8 +30,12 @@ Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/B
 - **GestureDetector Widget**: Implementing interactive gestures for enhanced user experience.
 
 ## Screenshots 📸
-![1](https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/assets/96491059/dc611431-b50b-4358-939a-2f244d483b02)
-![2](https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/assets/96491059/4f6229f1-82d9-45b2-97c3-6bd4b2876ad4)
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/assets/96491059/dc611431-b50b-4358-939a-2f244d483b02" alt="Screenshot 1" width="400" style="margin: 10px;">
+  <img src="https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/assets/96491059/4f6229f1-82d9-45b2-97c3-6bd4b2876ad4" alt="Screenshot 2" width="400" style="margin: 10px;">
+</div>
+
 
 
 ## Video 📸
