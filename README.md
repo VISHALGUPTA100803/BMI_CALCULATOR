@@ -4,7 +4,13 @@ Welcome to **BMI Calculator**, your go-to app for computing Body Mass Index. Thi
 
 ## Getting Started 🚀
 
-Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/releases/tag/v1.0.0) and start your fitness journey with accurate BMI calculations!
+To get started with the BMI Calculator App, you have two options:
+
+1. **Download from the Amazon Appstore:**
+   - [Download from Amazon Appstore](https://www.amazon.com/gp/product/B0D7J61M2R)
+
+2. **Download the APK directly:**
+   - [Download the latest version of the app](https://github.com/your-username/your-repository/releases/download/v1.0/app-release.apk)
 
 ## Features 🌟
 
@@ -17,7 +23,7 @@ Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/B
 
 ## How to Use 🌟
 
-1. **Download the App**: Get the app from our [Releases Page](https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/releases/tag/v1.0.0).
+1. **Download the App**: Get the app from our [Amazon Appstore](https://www.amazon.com/gp/product/B0D7J61M2R).
 2. **Enter Your Details**: Provide your height, weight, and other required information.
 3. **Get Your BMI**: Instantly compute your Body Mass Index and gain valuable insights into your fitness.
 
