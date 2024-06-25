@@ -10,7 +10,7 @@ To get started with the BMI Calculator App, you have two options:
    - [Download from Amazon Appstore](https://www.amazon.com/gp/product/B0D7J61M2R)
 
 2. **Download the APK directly:**
-   - [Download the latest version of the app](https://github.com/your-username/your-repository/releases/download/v1.0/app-release.apk)
+   - [Download the latest version of the app](https://github.com/VISHALGUPTA100803/BMI_CALCULATOR/releases/tag/v1.0.0)
 
 ## Features 🌟
 
